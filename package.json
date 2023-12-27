@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/manh-t/package-publishing-github/issues"
   },
-  "homepage": "https://github.com/manh-t/package-publishing-github#readme"
+  "homepage": "https://github.com/manh-t/package-publishing-github#readme",
+  "publishConfig": {
+    "@manh-t:registry": "https://npm.pkg.github.com"
+  }
 }
