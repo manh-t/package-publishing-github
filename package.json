@@ -1,0 +1,15 @@
+{
+  "name": "@manh-t/package-publishing-github",
+  "version": "0.0.1",
+  "description": "Just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manh-t/package-publishing-github/issues"
+  },
+  "homepage": "https://github.com/manh-t/package-publishing-github#readme"
+}
